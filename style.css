@@ -1,3 +1,7 @@
+QStatusBar QLabel {
+    color: black;
+}
+
 QLabel {
     color: #F1F1F1; 
     background-color: #2D2D30;
