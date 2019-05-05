@@ -1,7 +1,7 @@
 # x32dbg Theme
 
 ## Goal
-* This theme has been created for people who loves dark theme and have issues with light ones (migraines, etc...).
+* This theme has been created for people who love dark theme and have issues with light ones (migraines, etc...).
 
 # Information
 * This a modded Dark theme created initially by tr4ceflow, hotfixes some colors and added some stuff for better visibity.
