@@ -6,6 +6,16 @@
 
 ![Template](https://pbs.twimg.com/media/D0mfvp8W0AMYi80.jpg:large)
 
+## Installation
+* close x32/x64dbg 
+* copy the ini file into the x32dbg folder
+* rename it x32dbg.ini
+* copy the ini file into the x64dbg folder
+* rename it x64dbg.ini
+* copy the style.css file into both folders
+* launch x32/x64dbg 
+* profit
+
 ## Recommended plugins
 * XAnalyzer 
 * x32dbgpy
